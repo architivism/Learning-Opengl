@@ -1,0 +1,10 @@
+ #version 330 core
+out vec4 FragColor;
+in vec4 vexterColor;
+in vec2 Texcoods;
+
+uniform sample2D ourTexture;
+void main()
+{
+  FragColor=texture(ourTexture,Texcoods);
+}
