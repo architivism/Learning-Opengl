@@ -11,8 +11,8 @@ LearnOpenGL<br>
 上述文件的知识点，统一包含在4.8.2几何着色器这一文件中<br>
 <br>
 知识点包括：<br>
-*如何建立窗口<br>
-*了解OpenGL渲染管线，绘制基本图形<br>
+* 如何建立窗口<br>
+* 了解OpenGL渲染管线，绘制基本图形<br>
 *基本shader的使用与shader类的编写<br>
 *利用std—_image实现texture的使用<br>
 *坐标系统的学习<br>
