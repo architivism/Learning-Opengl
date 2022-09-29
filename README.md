@@ -20,7 +20,7 @@ LearnOpenGL<br>
 * Blinn—Phong光照模型的实现<br>
 * Material类的实现<br>
 * 光照贴图的使用<br>
-*平行光，点光，聚光的实现<br>
+* 平行光，点光，聚光的实现<br>
 * 多光源的实现<br>
 * 利用Assimp库的Mesh类与Model类的建立<br>
 * 深度测试，模板测试，混和，面剔除的使用<br>
