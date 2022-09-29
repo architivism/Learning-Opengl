@@ -8,8 +8,6 @@
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
 
-
-
 using namespace std;
 
 Shader::Shader(const char* vertexPath, const char* fragmentPath)
@@ -54,13 +52,13 @@ Shader::Shader(const char* vertexPath, const char* fragmentPath)
 	fragment = glCreateShader(GL_FRAGMENT_SHADER);
 	glShaderSource(fragment, 1, &fragmentSource, NULL);
 	glCompileShader(fragment);
-	checkCompleErrors(vertex, "FRAGMENT");
+	checkCompleErrors(fragment, "FRAGMENT");
 
 	ID = glCreateProgram();
 	glAttachShader(ID, vertex);
 	glAttachShader(ID, fragment);
 	glLinkProgram(ID);
-	checkCompleErrors(vertex, "PROGRAM");
+	checkCompleErrors(ID, "PROGRAM");
 
 	glDeleteShader(vertex);
 	glDeleteShader(fragment);
