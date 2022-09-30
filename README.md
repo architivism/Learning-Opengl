@@ -9,6 +9,7 @@ LearnOpenGL<br>
 
 ### 1.4-1四边形---->4.8.2几何着色器<br><br>
 上述文件的知识点，统一包含在4.8.2几何着色器这一文件中<br>
+![image]https://github.com/architivism/Learning-Opengl/blob/main/img/%E5%87%A0%E4%BD%95%E7%9D%80%E8%89%B2%E5%99%A8.jpg
 <br>
 知识点包括：<br>
 * 如何建立窗口<br>
@@ -33,6 +34,7 @@ LearnOpenGL<br>
 （为画面效果部分功能代码被注释，可参照笔记对应）<br>
 
 ### 4.9实例化（方块矩阵）<br>
+![image]https://github.com/architivism/Learning-Opengl/blob/main/img/%E6%96%B9%E5%9D%97%E9%98%B5%E5%88%97.jpg
 
 ### 4.9-2实例化（小行星带）<br>
 
