@@ -31,7 +31,6 @@ LearnOpenGL<br>
 * 几何着色器的使用—————模型爆炸<br>
 * 抗锯齿的使用<br>
 * gamma的使用<br>
-（为画面效果部分功能代码被注释，可参照笔记对应）<br>
 
 ### 4.9实例化（方块矩阵）<br>
 ![image](https://github.com/architivism/Learning-Opengl/blob/main/img/%E6%96%B9%E5%9D%97%E9%98%B5%E5%88%97.jpg)<br>
